@@ -57,7 +57,7 @@ def jar_jar_repositories(servers=["https://repo1.maven.org/maven2"]):
     servers)
   _mvn_jar(
     "org.ow2.asm:asm:9.2",
-    "b88ef66468b3c978ad0c97fd6e90979e56155b4ac69089ba7a44e9aa7ffe9acf",
+    "b9d4fe4d71938df38839f0eca42aaaa64cf8b313d678da036f0cb3ca199b47f5",
     "asm",
     servers)
   _mvn_jar(
